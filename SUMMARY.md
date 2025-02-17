@@ -1,3 +1,9 @@
 # Table of contents
 
-* [Page](README.md)
+## Projects
+
+* [The perfect EDR](README.md)
+
+## About
+
+* [About](about/about.md)
