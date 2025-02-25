@@ -4,7 +4,6 @@ description: A very good EDR
 
 # Ideal Endpoint Detection & Response Tool
 
-```
 You think that there are some magical devices that you don’t
 
 know about that make up the internet, but you’d be wrong.
@@ -14,8 +13,6 @@ The internet is essentially workstations, switches, routers,
 and servers. That’s it. Though they be big and small, though
 
 they have various configurations. That’s it. No magic.
-
-
 
 When thinking about how packets are routed across the
 
@@ -80,8 +77,6 @@ find a better way. This is in fact how innovation occurs and
 things are done.
 
 
-
-```
 
 The problem my EDR is trying to solve is the age old "How do you find an A-game APT in your network?"
 
