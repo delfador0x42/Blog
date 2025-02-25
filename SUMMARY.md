@@ -2,7 +2,8 @@
 
 ## Projects
 
-* [Ideal Endpoint Detection & Response Tool](README.md)
+* [Page](README.md)
+* [Ideal Endpoint Detection & Response Tool](<README (1).md>)
 
 ## Dojo
 
