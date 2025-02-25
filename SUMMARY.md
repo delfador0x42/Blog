@@ -2,7 +2,7 @@
 
 ## Projects
 
-* [|             The Internet](README.md)
+* [\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&n\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp;\&nbsp; The Internet](README.md)
 * [Ideal Endpoint Detection & Response Tool](<README (1).md>)
 
 ## Dojo
