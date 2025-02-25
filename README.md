@@ -11,6 +11,7 @@
 &#x20;                             they have various configurations. That’s it. No magic.
 
 \
+\
 &#x20;                             When thinking about how packets are routed across the
 
 &#x20;                             internet, it can seem quite mysterious when the packet
@@ -30,6 +31,7 @@
 &#x20;                             as an arcane thing.
 
 \
+\
 &#x20;                             It’s important to keep in mind that every technology used in
 
 &#x20;                             the internet, the various protocols, the various hardware
@@ -42,6 +44,7 @@
 
 &#x20;                             apart.
 
+\
 \
 &#x20;                             Don’t get lost in the sauce, remember the technology is
 
