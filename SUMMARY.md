@@ -23,7 +23,7 @@
 
 ## Philosophy and Thoughts
 
-* [Page 2](philosophy-and-thoughts/page-2.md)
+* [Fight to Fight](philosophy-and-thoughts/fight-to-fight.md)
 
 ## Group 1
 
