@@ -1,7 +1,3 @@
----
-description: 06/30/25
----
-
 # Everybody hates themselves.
 
 Everybody hates themselves.

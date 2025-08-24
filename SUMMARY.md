@@ -36,6 +36,7 @@
   * [Stagnation harbours disease.](philosophy-and-thoughts/sensei-vash/stagnation-harbours-disease..md)
   * [Energy determines Outcome](philosophy-and-thoughts/sensei-vash/energy-determines-outcome.md)
   * [Every Moment](philosophy-and-thoughts/sensei-vash/every-moment.md)
+  * [Two Questions](philosophy-and-thoughts/sensei-vash/two-questions.md)
 * [Fight to Fight](philosophy-and-thoughts/fight-to-fight.md)
 * [Laziness leads to decay in all realms.](philosophy-and-thoughts/laziness-leads-to-decay-in-all-realms..md)
 * [What is a good man?](philosophy-and-thoughts/what-is-a-good-man.md)

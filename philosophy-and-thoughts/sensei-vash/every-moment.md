@@ -1,7 +1,3 @@
----
-description: 06/25/25
----
-
 # Every Moment
 
 Every second you spend is molding who you are as a person.
