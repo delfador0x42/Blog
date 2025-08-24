@@ -24,6 +24,8 @@
 ## Philosophy and Thoughts
 
 * [Fight to Fight](philosophy-and-thoughts/fight-to-fight.md)
+* [Training](philosophy-and-thoughts/training.md)
+* [Criticism](philosophy-and-thoughts/criticism.md)
 
 ## Group 1
 
