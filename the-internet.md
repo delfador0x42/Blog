@@ -2,20 +2,6 @@
 cover: >-
   .gitbook/assets/zahel99_httpss.mj.runCGIej3UXODU_A_vast_desolate_snowy_expans_7a8aee42-b488-47d4-8ba6-92b2f7e84ba3_3.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # The Internet

@@ -2,8 +2,8 @@
 
 ## Projects
 
-* [Ideal Endpoint Detection & Response Tool](README.md)
-  * [Filesystem\_checker](projects/ideal-endpoint-detection-and-response-tool/filesystem_checker.md)
+* [Stub Title](README.md)
+  * [Filesystem\_checker](projects/stub-title/filesystem_checker.md)
 
 ## Dojo
 
