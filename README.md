@@ -18,7 +18,7 @@ The school section is where I attempt to teach you everything I know, in the for
 
 ### Get in Touch
 
-If you have any thoughts or critiques, please email me at nexus0x42@gmail.com.
+If you have any thoughts or critiques (don't be shy I want the critique/feedback), please email me at nexus0x42@gmail.com
 
 ### About Me
 
@@ -26,4 +26,4 @@ My ultimate goal is to contribute to humanity's conquest of the stars. We have t
 
 ### Goal of This Blog
 
-I want a place to think through concepts and build a mental map of how everything works in the world. My aim is to be maximally truthful and accurate. While I will inevitably say wrong things and write inaccuracies, I hope to minimize those as much as possible. Please email me any feedback and criticism – I really appreciate it. I hope that together, we can learn something and bring the day closer when humans become a multi-planetary species.
+I want a place to think through concepts and build a mental map of how everything works in the world. My aim is to be maximally truthful and accurate. While I will inevitably say wrong things and write inaccuracies, I hope to minimize those as much as possible. Please email me any feedback and criticism – I really appreciate it. I'm a big fan of criticism and feedback so please don't be shy. I hope that this brings the day closer when humans become a multi-planetary species.
