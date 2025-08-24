@@ -1,0 +1,3 @@
+# Maybe you can't be forgiven
+
+You're dealing with so many crazy feelings you can't stand it anymore. But that's why I have to tell you this! Don't you dare give up again! All you've ever done is give up! Instead of facing your problems you locked yourself away and hid in the darkness, because you thought it was the easiest thing to do! Just because you made a mistake that you can't fix, that doesn't mean you're allowed to run away and cry! Think about it! You had the guts to make everything else happen, right?! You did that! Maybe you can't be forgiven, but you still have to stand your ground without making excuses for yourself!

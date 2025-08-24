@@ -1,0 +1,3 @@
+# The Essence of a Warrior
+
+Remember, the way of the warrior is found in death. Meditation on inevitable death should be performed daily. Every day, when one's body and mind are at peace, one should meditate upon being ripped apart by arrows, rifles, spears, and swords. Being carried away by surging waves, being thrown into the midst of a great fire, being struck by lightning, being shaken to death by a great earthquake, falling from thousand-foot cliffs, dying of disease, or committing seppuku at the death of one's master. And every day, without fail, one should consider himself as dead. This is the substance of the way of the samurai.
