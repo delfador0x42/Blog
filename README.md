@@ -1,5 +1,8 @@
 ---
 description: Purpose
+cover: >-
+  .gitbook/assets/zahel99_httpss.mj.runCGIej3UXODU_A_vast_desolate_snowy_expans_7a8aee42-b488-47d4-8ba6-92b2f7e84ba3_3.png
+coverY: 52.26810810810811
 ---
 
 # About

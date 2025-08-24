@@ -1,7 +1,7 @@
 ---
 cover: >-
-  .gitbook/assets/zahel99_httpss.mj.runCGIej3UXODU_A_vast_desolate_snowy_expans_7a8aee42-b488-47d4-8ba6-92b2f7e84ba3_3.png
-coverY: 0
+  .gitbook/assets/zahel99_A_dramatic_and_intense_manga-style_scene_depicting_an_43d28444-ebda-4eac-8d5b-ee8be8e53f2d_1.png
+coverY: 319.7914864864865
 ---
 
 # The Internet
