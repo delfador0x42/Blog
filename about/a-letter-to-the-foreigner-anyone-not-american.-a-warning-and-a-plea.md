@@ -30,7 +30,7 @@ I want to colonize mars, build cool space stations, colonize the moon, explore t
 
 I don't want to be building fuzzers and malware's forever. Plz. I will literally buy you a beer and take you out for some good steak.&#x20;
 
-But I will. My friend. I have no problem dedicating the entirety of my life energy to salting the earth where you stand. And in my position, I'll do a lot more then most. So plz, dear reader. Tech to tech, it's good to have competition, it encourages growth on both sides. But no further. It must not escalate to reality.&#x20;
+But I will. My friend. I have no problem dedicating the entirety of my life energy to salting the earth where you stand. And in my position, I'll do a lot more than most. So plz, dear reader. Tech to tech, it's good to have competition, it encourages growth on both sides. But no further. It must not escalate to reality.&#x20;
 
 
 
