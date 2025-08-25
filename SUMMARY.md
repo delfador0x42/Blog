@@ -108,7 +108,6 @@
 * [The Cherry Blossom](philosophy-and-thoughts/the-cherry-blossom.md)
 * [Defining Emotions](philosophy-and-thoughts/defining-emotions.md)
 * [Stay Hard](philosophy-and-thoughts/stay-hard.md)
-* [Train till it kills you](philosophy-and-thoughts/train-till-it-kills-you.md)
 * [=== Miscellaneous Sayings ===](philosophy-and-thoughts/miscellaneous-sayings/README.md)
   * [Criticism](philosophy-and-thoughts/miscellaneous-sayings/criticism.md)
   * [Maybe you can't be forgiven](philosophy-and-thoughts/miscellaneous-sayings/maybe-you-cant-be-forgiven.md)
@@ -118,7 +117,8 @@
   * [A Lesson on Despair](philosophy-and-thoughts/miscellaneous-sayings/a-lesson-on-despair.md)
   * [A Lesson on Fear](philosophy-and-thoughts/miscellaneous-sayings/a-lesson-on-fear.md)
   * [Way of the warrior](philosophy-and-thoughts/miscellaneous-sayings/way-of-the-warrior.md)
+  * [Train till it kills you](philosophy-and-thoughts/miscellaneous-sayings/train-till-it-kills-you.md)
 
-## Group 2
+## Dojo
 
-* [Page 1](group-2/page-1.md)
+* [Page 1](dojo/page-1.md)
