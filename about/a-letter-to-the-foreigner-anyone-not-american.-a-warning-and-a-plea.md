@@ -1,5 +1,5 @@
 ---
-description: To all concerned
+description: To all concerned August-25-2025
 ---
 
 # A letter to the Foreigner, anyone not American. A warning and a plea

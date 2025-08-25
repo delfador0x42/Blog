@@ -1,5 +1,5 @@
 ---
-description: To all concerned
+description: To all concerned August-25-2025
 ---
 
 # A letter to my fellow Americans, my brothers. A warning and a plea
