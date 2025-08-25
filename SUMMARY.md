@@ -4,22 +4,18 @@
 
 * [About](README.md)
 
-## Projects
-
-* [IRIS](projects/iris.md)
-* [MUGETSU](projects/mugetsu.md)
-* [ETERNAL FOG](projects/eternal-fog.md)
-* [RHO AIAS](projects/rho-aias.md)
-* [DOMAIN EXPANSION](projects/domain-expansion.md)
-* [AKELDAMA](projects/akeldama.md)
-
-***
-
-* [The Internet](the-internet.md)
-
 ## Eternal Battle Arts
 
-* [Way of the warrior](eternal-battle-arts/way-of-the-warrior.md)
+* [IRIS](eternal-battle-arts/iris.md)
+* [MUGETSU](eternal-battle-arts/mugetsu.md)
+* [ETERNAL FOG](eternal-battle-arts/eternal-fog.md)
+* [RHO AIAS](eternal-battle-arts/rho-aias.md)
+* [DOMAIN EXPANSION](eternal-battle-arts/domain-expansion.md)
+* [AKELDAMA](eternal-battle-arts/akeldama.md)
+
+## Eternal Archives
+
+* [The Internet](eternal-archives/the-internet.md)
 
 ## Philosophy and Thoughts
 
@@ -63,7 +59,8 @@
   * [The soul should have someone who it can respect](philosophy-and-thoughts/miscellaneous-sayings/the-soul-should-have-someone-who-it-can-respect.md)
   * [A Lesson on Despair](philosophy-and-thoughts/miscellaneous-sayings/a-lesson-on-despair.md)
   * [A Lesson on Fear](philosophy-and-thoughts/miscellaneous-sayings/a-lesson-on-fear.md)
+  * [Way of the warrior](philosophy-and-thoughts/miscellaneous-sayings/way-of-the-warrior.md)
 
-## Group 1
+## Group 2
 
-* [Page 3](group-1/page-3.md)
+* [Page 1](group-2/page-1.md)

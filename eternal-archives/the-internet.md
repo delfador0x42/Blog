@@ -1,6 +1,6 @@
 ---
 cover: >-
-  .gitbook/assets/zahel99_A_dramatic_and_intense_manga-style_scene_depicting_an_43d28444-ebda-4eac-8d5b-ee8be8e53f2d_1.png
+  ../.gitbook/assets/zahel99_A_dramatic_and_intense_manga-style_scene_depicting_an_43d28444-ebda-4eac-8d5b-ee8be8e53f2d_1.png
 coverY: 319.7914864864865
 ---
 
