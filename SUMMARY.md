@@ -4,6 +4,7 @@
 
 * [About](README.md)
 * [A letter to the Foreigner, anyone not American. A warning and a plea](about/a-letter-to-the-foreigner-anyone-not-american.-a-warning-and-a-plea.md)
+* [A letter to my fellow Americans, my brothers. A warning and a plea](about/a-letter-to-my-fellow-americans-my-brothers.-a-warning-and-a-plea.md)
 
 ## Eternal Archive
 
