@@ -4,6 +4,11 @@
 
 * [About](README.md)
 
+## Eternal Archives
+
+* [The Internet](eternal-archives/the-internet.md)
+* [Test Hidden Page Can you See Me?](eternal-archives/test-hidden-page-can-you-see-me.md)
+
 ## Eternal Battle Arts
 
 * [IRIS](eternal-battle-arts/iris.md)
@@ -12,10 +17,6 @@
 * [RHO AIAS](eternal-battle-arts/rho-aias.md)
 * [DOMAIN EXPANSION](eternal-battle-arts/domain-expansion.md)
 * [AKELDAMA](eternal-battle-arts/akeldama.md)
-
-## Eternal Archives
-
-* [The Internet](eternal-archives/the-internet.md)
 
 ## Philosophy and Thoughts
 
