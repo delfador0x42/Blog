@@ -4,10 +4,10 @@
 
 * [About](README.md)
 
-## Eternal Archives
+## Eternal Archive
 
-* [The Internet](eternal-archives/the-internet.md)
-* [Test Hidden Page Can you See Me?](eternal-archives/test-hidden-page-can-you-see-me.md)
+* [The Internet](eternal-archive/the-internet.md)
+* [Test Hidden Page Can you See Me?](eternal-archive/test-hidden-page-can-you-see-me.md)
 
 ## Projects
 
