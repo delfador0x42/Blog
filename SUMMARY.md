@@ -4,19 +4,19 @@
 
 * [About](README.md)
 
-## Knowledge Map
+## Eternal Archive
 
-* [The Internet](knowledge-map/the-internet.md)
-* [Test Hidden Page Can you See Me?](knowledge-map/test-hidden-page-can-you-see-me.md)
+* [The Internet](eternal-archive/the-internet.md)
+* [Test Hidden Page Can you See Me?](eternal-archive/test-hidden-page-can-you-see-me.md)
 
-## Projects
+## Eternal Battle Arts
 
-* [IRIS](projects/iris.md)
-* [MUGETSU](projects/mugetsu.md)
-* [ETERNAL FOG](projects/eternal-fog.md)
-* [RHO AIAS](projects/rho-aias.md)
-* [DOMAIN EXPANSION](projects/domain-expansion.md)
-* [AKELDAMA](projects/akeldama.md)
+* [IRIS](eternal-battle-arts/iris.md)
+* [MUGETSU](eternal-battle-arts/mugetsu.md)
+* [ETERNAL FOG](eternal-battle-arts/eternal-fog.md)
+* [RHO AIAS](eternal-battle-arts/rho-aias.md)
+* [DOMAIN EXPANSION](eternal-battle-arts/domain-expansion.md)
+* [AKELDAMA](eternal-battle-arts/akeldama.md)
 
 ## Philosophy and Thoughts
 
