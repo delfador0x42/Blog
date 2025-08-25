@@ -1,6 +1,5 @@
 ---
 description: To all concerned
-hidden: true
 ---
 
 # A letter to my fellow Americans, my brothers. A warning and a plea
