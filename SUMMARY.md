@@ -137,7 +137,6 @@
   * [Sight but no vision](philosophy-and-thoughts/poetry/sight-but-no-vision.md)
 * [What is a good man?](philosophy-and-thoughts/what-is-a-good-man.md)
 * [Stay Hard](philosophy-and-thoughts/stay-hard.md)
-* [The Cherry Blossom](philosophy-and-thoughts/the-cherry-blossom.md)
 * [Defining Emotions](philosophy-and-thoughts/defining-emotions.md)
 * [=== Miscellaneous Sayings ===](philosophy-and-thoughts/miscellaneous-sayings/README.md)
   * [Various Sayings on walking the path](philosophy-and-thoughts/miscellaneous-sayings/various-sayings-on-walking-the-path.md)
