@@ -1,2 +1,0 @@
-# === Sensei Vash ===
-

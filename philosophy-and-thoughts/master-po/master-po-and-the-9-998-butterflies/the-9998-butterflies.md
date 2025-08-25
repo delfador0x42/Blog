@@ -20,7 +20,7 @@ Tigers claw failed, along with my snake fist. I spent 23 days moving, quickly an
 
 By my 24th day my technique had begun to fail. My footwork was sloppy and my stances irregular. Instead of correcting myself, I let it happen, and 3 hours later I caught my first butterfly.
 
-I didn’t know it then, but these irregular movements of traditional style were the beginnings of Tateshinkai.
+I didn’t know it then, but these irregular movements of traditional style were the beginnings of Anima Invicta-shinkai.
 
 Excited, I held it in my hands as gently as I could, and ran back to the temple to show Master Po. I ran up to him as he was drinking his tea. “Master, Master, I have caught a butterfly!” I exclaimed.
 
