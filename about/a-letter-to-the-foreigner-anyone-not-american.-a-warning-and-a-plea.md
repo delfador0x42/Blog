@@ -1,5 +1,25 @@
 ---
 description: To all concerned August-25-2025
+cover: >-
+  ../.gitbook/assets/delfador-zahel99-httpss-mj-runfj1b2a5poe4-doomcore-overcast-tron-env-e1e7a184-dc52-42a2-a182-f925c019a413-2.jpg
+coverY: 119.4157894736842
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # A letter to the Foreigner, anyone not American. A warning and a plea

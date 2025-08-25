@@ -1,5 +1,8 @@
 ---
 description: To all concerned August-25-2025
+cover: >-
+  ../.gitbook/assets/delfador-zahel99-a-battle-hardened-warrior-clx-in-weathered-armor-sca-b9a066dd-d091-4c7a-8432-79829db35cfc-0.jpg
+coverY: -6.244482484563186
 ---
 
 # A letter to my fellow Americans, my brothers. A warning and a plea
