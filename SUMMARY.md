@@ -9,14 +9,14 @@
 * [The Internet](eternal-archives/the-internet.md)
 * [Test Hidden Page Can you See Me?](eternal-archives/test-hidden-page-can-you-see-me.md)
 
-## Eternal Battle Arts
+## Projects
 
-* [IRIS](eternal-battle-arts/iris.md)
-* [MUGETSU](eternal-battle-arts/mugetsu.md)
-* [ETERNAL FOG](eternal-battle-arts/eternal-fog.md)
-* [RHO AIAS](eternal-battle-arts/rho-aias.md)
-* [DOMAIN EXPANSION](eternal-battle-arts/domain-expansion.md)
-* [AKELDAMA](eternal-battle-arts/akeldama.md)
+* [IRIS](projects/iris.md)
+* [MUGETSU](projects/mugetsu.md)
+* [ETERNAL FOG](projects/eternal-fog.md)
+* [RHO AIAS](projects/rho-aias.md)
+* [DOMAIN EXPANSION](projects/domain-expansion.md)
+* [AKELDAMA](projects/akeldama.md)
 
 ## Philosophy and Thoughts
 
