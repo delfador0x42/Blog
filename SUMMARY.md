@@ -193,7 +193,7 @@
   * [A Young Man's Biggest Hack](philosophy-and-thoughts/sensei-anima-ferrea/a-young-mans-biggest-hack.md)
 * [=== Poetry ===](philosophy-and-thoughts/poetry/README.md)
   * [Sight but no vision](philosophy-and-thoughts/poetry/sight-but-no-vision.md)
-  * [Now I see](philosophy-and-thoughts/poetry/now-i-see.md)
+  * [The blind see](philosophy-and-thoughts/poetry/the-blind-see.md)
   * [Missed the starting gun.](philosophy-and-thoughts/poetry/missed-the-starting-gun..md)
   * [Your moves, sand on the beach.](philosophy-and-thoughts/poetry/your-moves-sand-on-the-beach..md)
   * [Ash](philosophy-and-thoughts/poetry/ash.md)
