@@ -192,8 +192,14 @@
   * [How You Should Choose Your Friends](philosophy-and-thoughts/sensei-anima-ferrea/how-you-should-choose-your-friends.md)
   * [A Young Man's Biggest Hack](philosophy-and-thoughts/sensei-anima-ferrea/a-young-mans-biggest-hack.md)
 * [=== Poetry ===](philosophy-and-thoughts/poetry/README.md)
-  * [My feet have finally touched the ground.](philosophy-and-thoughts/poetry/my-feet-have-finally-touched-the-ground..md)
   * [Sight but no vision](philosophy-and-thoughts/poetry/sight-but-no-vision.md)
+  * [Now I see](philosophy-and-thoughts/poetry/now-i-see.md)
+  * [Missed the starting gun.](philosophy-and-thoughts/poetry/missed-the-starting-gun..md)
+  * [Your moves, sand on the beach.](philosophy-and-thoughts/poetry/your-moves-sand-on-the-beach..md)
+  * [Ash](philosophy-and-thoughts/poetry/ash.md)
+  * [Make the magic happen.](philosophy-and-thoughts/poetry/make-the-magic-happen..md)
+  * [Demons on a leash](philosophy-and-thoughts/poetry/demons-on-a-leash.md)
+  * [Lots of chances to turn back. Never give up. Die trying.](philosophy-and-thoughts/poetry/lots-of-chances-to-turn-back.-never-give-up.-die-trying..md)
 * [What is a good man?](philosophy-and-thoughts/what-is-a-good-man.md)
 * [Stay Hard](philosophy-and-thoughts/stay-hard.md)
 * [Defining Emotions](philosophy-and-thoughts/defining-emotions.md)
@@ -203,11 +209,11 @@
   * [Maybe you can't be forgiven](philosophy-and-thoughts/miscellaneous-sayings/maybe-you-cant-be-forgiven.md)
   * [A dull day](philosophy-and-thoughts/miscellaneous-sayings/a-dull-day.md)
   * [If the cost is peace of mind](philosophy-and-thoughts/miscellaneous-sayings/if-the-cost-is-peace-of-mind.md)
-  * [The soul should have someone who it can respect](philosophy-and-thoughts/miscellaneous-sayings/the-soul-should-have-someone-who-it-can-respect.md)
   * [A Lesson on Despair](philosophy-and-thoughts/miscellaneous-sayings/a-lesson-on-despair.md)
   * [A Lesson on Fear](philosophy-and-thoughts/miscellaneous-sayings/a-lesson-on-fear.md)
   * [Way of the warrior](philosophy-and-thoughts/miscellaneous-sayings/way-of-the-warrior.md)
   * [Train till it kills you](philosophy-and-thoughts/miscellaneous-sayings/train-till-it-kills-you.md)
+  * [Live as if he were watching you](philosophy-and-thoughts/miscellaneous-sayings/live-as-if-he-were-watching-you.md)
 
 ## Dojo
 
