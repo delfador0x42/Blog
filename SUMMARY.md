@@ -101,6 +101,8 @@
   * [War update](philosophy-and-thoughts/sensei-anima-invicta/war-update.md)
 * [=== Sensei Anima Ferrea ===](philosophy-and-thoughts/sensei-anima-ferrea/README.md)
   * [Page](philosophy-and-thoughts/sensei-anima-ferrea/page.md)
+  * [Cast Spells On Yourself](philosophy-and-thoughts/sensei-anima-ferrea/cast-spells-on-yourself.md)
+  * [Man You Could Become](philosophy-and-thoughts/sensei-anima-ferrea/man-you-could-become.md)
   * [Fast Way To Learn ANYTHING](philosophy-and-thoughts/sensei-anima-ferrea/fast-way-to-learn-anything.md)
   * [Taking Down Barriers](philosophy-and-thoughts/sensei-anima-ferrea/taking-down-barriers.md)
   * [Time To Move Out](philosophy-and-thoughts/sensei-anima-ferrea/time-to-move-out.md)
